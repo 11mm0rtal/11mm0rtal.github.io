@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://11mm0rtal.github.io//sitemap.xml
